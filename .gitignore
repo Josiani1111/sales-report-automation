@@ -1,0 +1,17 @@
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Cache dos testes
+.pytest_cache/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Planilhas geradas
+*.xlsx
+
+# Configurações locais
+.vscode/
+.env
